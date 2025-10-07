@@ -14,9 +14,9 @@ Para que la demostración de la página sea razonable es que decidí mantenerlo 
 
 ## ¿Cómo ver la página?
 
-La forma más sencilla es hacer doble click en `index.html` y se debería abrir automáticamente en el navegador, cualquier otra forma de visualizar una página estática como Live Server de VSCode también sirve.
+La forma más sencilla es clonar el repo y hacer doble click en `index.html` y se debería abrir automáticamente en el navegador, cualquier otra forma de visualizar una página estática como Live Server de VSCode también sirve.
 
-También se puede ver la página en el siguiente link: <https://users.dcc.uchile.cl/~acaldero/html/volume.html>
+También se puede ver la página en el siguiente link: <https://users.dcc.uchile.cl/~acaldero/html/volume.html>.
 
 ## Música
 

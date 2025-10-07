@@ -6,6 +6,8 @@
 
 La gracia está en que para poder modificar el volumen de las canciones es necesario jugar 2048 y obtener un puntaje tal que llegues al porcentaje de tu gusto, 30.000 siendo equivalente al 100%.
 
+![Preview de la página](preview.png)
+
 ## Fun Fact
 
 Hice una investigación para hallar el puntaje máximo en 2048 y resulta ser 3.932.100, pensaba usar este valor como objetivo para el 100% pero tomaría una cantidad absurda de tiempo (asumiendo una jugada por segundo serían 35.5 horas vs los 16.8 minutos que toma con 30.000).
